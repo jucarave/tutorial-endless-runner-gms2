@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprJugadorCorriendo",
-    "path": "sprites/sprJugadorCorriendo/sprJugadorCorriendo.yy",
+    "name": "sprAlienCorriendo",
+    "path": "sprites/sprAlienCorriendo/sprAlienCorriendo.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,10 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":32,"eventType":9,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objAlien","path":"objects/objAlien/objAlien.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":1,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -33,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objJugador",
+  "name": "objAlien",
   "tags": [],
   "resourceType": "GMObject",
 }
