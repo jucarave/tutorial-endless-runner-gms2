@@ -4,6 +4,7 @@
     {"id":{"name":"objAlien","path":"objects/objAlien/objAlien.yy",},"order":1,},
     {"id":{"name":"objJugador","path":"objects/objJugador/objJugador.yy",},"order":0,},
     {"id":{"name":"sprFondo","path":"sprites/sprFondo/sprFondo.yy",},"order":0,},
+    {"id":{"name":"objObstaculos","path":"objects/objObstaculos/objObstaculos.yy",},"order":2,},
     {"id":{"name":"sprPiso","path":"sprites/sprPiso/sprPiso.yy",},"order":1,},
     {"id":{"name":"sprJugadorSaltando","path":"sprites/sprJugadorSaltando/sprJugadorSaltando.yy",},"order":3,},
     {"id":{"name":"sprAlienCorriendo","path":"sprites/sprAlienCorriendo/sprAlienCorriendo.yy",},"order":4,},
