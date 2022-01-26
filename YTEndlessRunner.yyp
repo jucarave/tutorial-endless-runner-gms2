@@ -3,11 +3,14 @@
     {"id":{"name":"sprJugadorCorriendo","path":"sprites/sprJugadorCorriendo/sprJugadorCorriendo.yy",},"order":2,},
     {"id":{"name":"objAlien","path":"objects/objAlien/objAlien.yy",},"order":1,},
     {"id":{"name":"objJugador","path":"objects/objJugador/objJugador.yy",},"order":0,},
+    {"id":{"name":"musJuego","path":"sounds/musJuego/musJuego.yy",},"order":2,},
     {"id":{"name":"sprFondo","path":"sprites/sprFondo/sprFondo.yy",},"order":0,},
     {"id":{"name":"objObstaculos","path":"objects/objObstaculos/objObstaculos.yy",},"order":2,},
     {"id":{"name":"sprPiso","path":"sprites/sprPiso/sprPiso.yy",},"order":1,},
+    {"id":{"name":"sndSalto","path":"sounds/sndSalto/sndSalto.yy",},"order":0,},
     {"id":{"name":"sprJugadorSaltando","path":"sprites/sprJugadorSaltando/sprJugadorSaltando.yy",},"order":3,},
     {"id":{"name":"sprAlienCorriendo","path":"sprites/sprAlienCorriendo/sprAlienCorriendo.yy",},"order":4,},
+    {"id":{"name":"sndColision","path":"sounds/sndColision/sndColision.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -31,6 +34,7 @@
     {"folderPath":"folders/Rooms.yy","order":10,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites.yy","order":11,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects.yy","order":12,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sounds.yy","order":13,"resourceVersion":"1.0","name":"Sounds","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
