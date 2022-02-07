@@ -7,6 +7,7 @@
     {"id":{"name":"musJuego","path":"sounds/musJuego/musJuego.yy",},"order":2,},
     {"id":{"name":"sprFondo","path":"sprites/sprFondo/sprFondo.yy",},"order":0,},
     {"id":{"name":"fntPuntaje","path":"fonts/fntPuntaje/fntPuntaje.yy",},"order":0,},
+    {"id":{"name":"objObstaculosPadre","path":"objects/objObstaculosPadre/objObstaculosPadre.yy",},"order":5,},
     {"id":{"name":"objPuntaje","path":"objects/objPuntaje/objPuntaje.yy",},"order":3,},
     {"id":{"name":"objObstaculos","path":"objects/objObstaculos/objObstaculos.yy",},"order":2,},
     {"id":{"name":"pthDrone","path":"paths/pthDrone/pthDrone.yy",},"order":0,},
